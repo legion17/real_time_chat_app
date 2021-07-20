@@ -4,8 +4,6 @@
 <li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
 <li>FrontEnd Technologies- HTML, CSS</li>
 <li>BackEnd Technologies- JavaScript, Node.js</li>
-<li>Used Socket.io module for a two-way connection between client and server.</li>
-<li>FrontEnd includes a navigation bar, Chat window and a form submit button for sending the messages.</li>
 <li>HTML has been used for preparing the structure of application.</li>
 <li>CSS has been used for styling the application.</li>
 <li>Added Client sided JavaScript for the purpose of playing with DOM elements.</li>
